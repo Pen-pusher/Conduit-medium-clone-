@@ -1,33 +1,12 @@
 import React from "react";
 import ReactDOM, { render } from "react-dom";
 
+import Navbar from "./navbar";
+
 export default function SignUp() {
   return (
     <div>
-      <nav>
-        <div className="nav-bar">
-          <a className="navbar-brand" href="#/">
-            conduit
-          </a>
-          <ul className="nav-right ">
-            <li className="nav-item">
-              <a className="home" href="#/">
-                Home
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="home" href="#/">
-                Sign in
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="home" href="#/">
-                Sign up
-              </a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+      <Navbar />
       <div className="main-container">
         <div className="rows">
           <h1>Sign Up</h1>

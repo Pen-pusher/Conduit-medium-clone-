@@ -80,3 +80,103 @@ a {
 h1 {
   color: #373a3c;
 }
+
+.home-banner {
+  background-color: #5cb85c;
+  border-color: #5cb85c;
+  text-align: center;
+  margin-top: 20px;
+}
+.home-1 {
+  color: white;
+  padding-top: 60px;
+  font-weight: 700;
+  font-size: 50px;
+}
+.home-para {
+  color: white;
+  margin-top: 25px;
+  padding-bottom: 30px;
+  word-spacing: 5px;
+  font-size: 25px;
+}
+
+//
+
+/* new post */
+
+.field {
+  text-align: center;
+  margin-top: 5rem;
+}
+.form-control {
+  padding: 0.75rem 1.5rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+  margin-top: 13px;
+
+  width: 50%;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.25;
+  color: #55595c;
+  background-color: #fff;
+  background-image: none;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+.big {
+  height: 150px;
+}
+.btn1 {
+  margin-left: 1298px;
+  margin-top: 20px;
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #5cb85c;
+  padding: 0.9rem 0.5rem;
+  border-radius: 7px;
+  border: 1px solid transparent;
+}
+.icon {
+  color: black;
+}
+
+/* Setting page// */
+
+.setting-page {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.head {
+  margin-bottom: 15px;
+}
+.setting {
+  padding-bottom: 170px;
+}
+.btn2 {
+  margin-left: 25rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+  background-color: #5cb85c;
+  border-bottom: 1px solid black;
+}
+hr {
+  width: 32%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.btn3 {
+  margin-right: 27rem;
+  padding: 0.4rem;
+  color: #b85c5c;
+  background-image: none;
+  background-color: transparent;
+  border-color: #b85c5c;
+  border: 1px solid transparent;
+}
